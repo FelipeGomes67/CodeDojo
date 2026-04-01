@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:controllers\\tarefacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\apitarefa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:apitarefa.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\interface\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:interface\\itarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:repository\\tarefarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\dto\\tarefadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:dto\\tarefadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|c:\\users\\52611156808\\desktop\\connectplus\\apitarefa\\dbcontexttarefa\\tarefacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5D12954-2153-A0D8-0ED2-40B9C9E8547E}|APITarefa.csproj|solutionrelative:dbcontexttarefa\\tarefacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T12:18:59.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "APITarefa",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\APITarefa.csproj",
+              "RelativeDocumentMoniker": "APITarefa.csproj",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\APITarefa.csproj",
+              "RelativeToolTip": "APITarefa.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-01T12:18:56.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "Models\\Tarefa.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Models\\Tarefa.cs",
+              "RelativeToolTip": "Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:16:11.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-01T12:12:34.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:11:35.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaController.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Controllers\\TarefaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TarefaController.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Controllers\\TarefaController.cs",
+              "RelativeToolTip": "Controllers\\TarefaController.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:11:17.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ITarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Interface\\ITarefaRepository.cs",
+              "RelativeDocumentMoniker": "Interface\\ITarefaRepository.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Interface\\ITarefaRepository.cs",
+              "RelativeToolTip": "Interface\\ITarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:10:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TarefaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Repository\\TarefaRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\TarefaRepository.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\Repository\\TarefaRepository.cs",
+              "RelativeToolTip": "Repository\\TarefaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:08:46.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TarefaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\DTO\\TarefaDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\TarefaDTO.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\DTO\\TarefaDTO.cs",
+              "RelativeToolTip": "DTO\\TarefaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:08:37.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TarefaContext.cs",
+              "DocumentMoniker": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\DbContextTarefa\\TarefaContext.cs",
+              "RelativeDocumentMoniker": "DbContextTarefa\\TarefaContext.cs",
+              "ToolTip": "C:\\Users\\52611156808\\Desktop\\ConnectPlus\\APITarefa\\DbContextTarefa\\TarefaContext.cs",
+              "RelativeToolTip": "DbContextTarefa\\TarefaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:08:06.352Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
